@@ -5,7 +5,7 @@
 **Course Date:** 05.03.2021</br></br>
 
 **Dataset** </br>
-(CIFAR100)[https://www.cs.toronto.edu/~kriz/cifar.html] </br>
+[CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html) </br>
 
 
 ## Requirements
