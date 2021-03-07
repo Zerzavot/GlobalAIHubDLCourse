@@ -4,12 +4,21 @@
 
 **Course Date:** 05.03.2021</br></br>
 
+**Dataset**
+CIFAR100
+https://www.cs.toronto.edu/~kriz/cifar.html
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+keras
+pandas
+scipy
+h5py
+matplotlib
+medpy.io
+imageio
+pylab
+numpy
 ```
 ---
 
