@@ -1,4 +1,4 @@
-# GlobalAIHubPythonCourse
+# GlobalAIHubDLCourse
 #DeepLearning Course Studies @globalaihub
 
 
